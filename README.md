@@ -1,1 +1,3 @@
 # coin-collector
+
+A game in progress...
